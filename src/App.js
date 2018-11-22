@@ -8,10 +8,10 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React</h1>
+          <h1 className="App-title">Welcome to CMPE 220</h1>
         </header>
         <p className="App-intro">
-          I was changed on the Feature branch
+          Sample Application for Docker Deployment !!
         </p>
       </div>
     );
