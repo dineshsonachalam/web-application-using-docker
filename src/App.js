@@ -11,7 +11,7 @@ class App extends Component {
           <h1 className="App-title">Welcome to CMPE 220</h1>
         </header>
         <p className="App-intro">
-          Sample Application for Docker Deployment !
+          Sample Application for Docker Deployment !!!
         </p>
       </div>
     );
